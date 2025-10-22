@@ -26,7 +26,7 @@ This is the third version of my dotfiles, as I gain more experience I am able to
 ## Automatic installation
 
 ```sh
-git clone -b v3 --depth 1 https://www.github.com/keyitdev/dotfiles.git
+git clone -b v3 --depth 1 https://www.github.com/similienandrew-svg//dotfiles.git
 cd dotfiles
 chmod +x install-on-arch.sh
 ./install-on-arch.sh
